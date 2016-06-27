@@ -165,13 +165,13 @@
 		]
 	},
 
-	"bootsequence" : 
-	{
-		"color" : [0,0,0],
-		"effect" : "Rainbow swirl fast",
-		"duration_ms" : 3000,
-		"priority" : 990
-	},
+//	"bootsequence" : 
+//	{
+//		"color" : [0,0,0],
+//		"effect" : "Rainbow swirl fast",
+//		"duration_ms" : 3000,
+//		"priority" : 990
+//	},
 
 	/// The configuration of the Json/Proto forwarder. Forward messages to multiple instances of Hyperion on same and/or other hosts 
 	/// 'proto' is mostly used for video streams and 'json' for effects 
