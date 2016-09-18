@@ -1,1 +1,0 @@
-SUBSYSTEM=="tty", ATTRS{idProduct}=="0001", ATTRS{idVendor}=="1d6b", ATTRS{serial}=="0000:00:16.0", SYMLINK+="ambilight"
