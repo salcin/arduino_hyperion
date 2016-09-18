@@ -13,7 +13,7 @@
 	{
 		"name"       : "MyHyperionConfig",
 		"type"       : "adalight",
-		"output"     : "/dev/ttyUSB0",
+		"output"     : "/dev/hyperion",
 		"rate"     : 115200,
 		"delayAfterConnect"     : 0,
 		"colorOrder" : "rgb"
